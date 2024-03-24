@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update the heatmap module code + docs (#7045)
