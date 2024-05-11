@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Fix OpenVINO missing batch-size bug (#9264)
