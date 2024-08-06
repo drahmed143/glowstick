@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add YOLOv8 LibTorch C++ inference example (#7090)
