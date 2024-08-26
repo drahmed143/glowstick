@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Fix PNNX ubuntu -> linux bug (#7050)
